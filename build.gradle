@@ -1,0 +1,3 @@
+task projectA << {
+println "excute projectA"
+}
